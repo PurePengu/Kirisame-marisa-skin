@@ -1,3 +1,3 @@
-## Kirisame marisa skin preview
+## Kirisame marisa skin preview (Will update whenever I make progress)
 Ranking panel
 ![ranking-panel@2x](https://user-images.githubusercontent.com/116615154/198489088-38a4549e-a77c-4d75-9aff-43d18979b3c3.png)
